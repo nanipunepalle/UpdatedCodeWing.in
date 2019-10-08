@@ -1,5 +1,5 @@
 body{
-  background-color: #212F3D;
+  background-color: #dedede;
 }
 nav{
   background-color: #5D6D7E;
@@ -27,4 +27,12 @@ button{
 .btn-primary:focus {
     background-color:#212F3D;
     border-color: #8064A2;
+}
+#footer
+{
+  background-color: #5D6D7E;
+}
+.news
+{
+  background-color: grey;
 }
